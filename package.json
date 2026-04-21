@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/RohyfuturBillionaire/solana_100#readme",
   "dependencies": {
-    "@solana/kit": "^6.8.0"
+    "@solana/keys": "^6.8.0",
+    "@solana/kit": "^6.8.0",
+    "@solana/signers": "^6.8.0"
   }
 }
